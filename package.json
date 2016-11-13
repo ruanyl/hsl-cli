@@ -2,7 +2,7 @@
   "name": "hsl",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/cli",
   "scripts": {
     "test": "./node_modules/.bin/ava --require babel-register  test/*",
     "build": "./node_modules/babel-cli/bin/babel.js src --out-dir lib",
