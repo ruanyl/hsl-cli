@@ -1,5 +1,4 @@
-HSL-CLI
-=============
+## HSL-CLI
 a command line interface for HSL
 
 ```
